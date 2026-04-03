@@ -26,6 +26,23 @@ I’m currently learning, building my own projects and developing practical skil
 📊 Interested in automation, data analysis and backend systems
 🤝 2+ years of experience in customer support – strong communication & teamwork
 
+🛠️ Tech stack & skills:
+
+Python (basics, scripting, automation)
+REST API (basics, integrations)
+SQL (queries, joins, data filtering)
+
+Frontend:
+
+HTML, CSS (basic web development)
+
+Tools & Technologies:
+
+Git & GitHub
+Linux / macOS (basic usage, terminal)
+Excel (data analysis, pivot tables)
+Salesforce (Service Cloud)
+
 📚 What I'm currently doing
 Developing personal projects in Python and backend
 Learning API communication and integrations
